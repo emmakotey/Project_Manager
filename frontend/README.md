@@ -1,11 +1,11 @@
-# project-management-dashboard 🔥 
-[👋 Backend Repo](https://github.com/MomenSherif/project-management-dashboard-nodejs)
-[👋 Give a try](https://project-management-dashboard.herokuapp.com/dashboard)
+# Project_Manager 🔥
 
-## Authors
+[👋 Backend Repo](https://github.com/emmakotey/Project_Manager/tree/main/backend)
+[👋 Give a try](https://github.com/emmakotey/Project_Manager)
 
- - [Mo'men Sherif](https://github.com/MomenSherif)
- - [Menna El-Nokally](https://github.com/mennaelnokally22)
- - [Amr Ouf](https://github.com/AmrOuf)
- - [Cady Emad](https://github.com/cadyemad1)
- - [Christina Adel](https://github.com/christina996)
+## Author
+
+- [Nathaniel Niiko Kotey](https://github.com/emmakotey)
+- [Title](Project Manager)
+- [Purpose](Alx Portfolio Project)
+-
